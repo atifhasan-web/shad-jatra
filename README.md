@@ -1,7 +1,5 @@
 # স্বাদ যাত্রা - Your Culinary Companion
 
-![Swaad Jatra OG Image](/public/og-image.png)
-
 **স্বাদ যাত্রা** is a modern, user-friendly web application built with Next.js, designed to help you discover and cook delicious Bangladeshi recipes. Whether you're a seasoned chef or a beginner in the kitchen, our app provides clear, step-by-step guidance to make your cooking experience enjoyable and successful.
 
 ## ✨ Features
